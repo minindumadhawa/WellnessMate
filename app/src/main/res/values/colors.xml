@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color (60%) -->
+    <color name="primary_color">#7B9ACC</color>
+    <color name="primary_light">#A8C5F0</color>
+    <color name="primary_dark">#4A72A8</color>
+
+    <!-- Secondary Color (30%) -->
+    <color name="secondary_color">#F5F5F5</color>
+    <color name="secondary_light">#FFFFFF</color>
+    <color name="secondary_dark">#E0E0E0</color>
+
+    <!-- Accent Color (10%) -->
+    <color name="accent_color1">#4C6FFF</color>
+    <color name="accent_color">#4C6FFF</color>
+    <color name="accent_light">#4C6FFF</color>
+    <color name="accent_dark">#4C6FFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_accent">#FFFFFF</color>
+
+    <!-- Other Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_dark">#616161</color>
+</resources>
